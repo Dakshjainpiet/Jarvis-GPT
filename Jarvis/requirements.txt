@@ -1,0 +1,12 @@
+openai
+pyttsx3
+SpeechRecognition
+pyaudio
+gTTS
+playsound
+groq
+python-dotenv
+pyautogui
+Flask
+
+
