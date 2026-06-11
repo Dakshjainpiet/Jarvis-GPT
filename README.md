@@ -26,9 +26,3 @@ JarvisGPT is an AI-powered personal assistant built using Python. It supports bo
 - JSON Storage
 - OpenCV (Optional)
 
-## Installation
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/JarvisGPT.git
