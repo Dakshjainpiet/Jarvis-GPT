@@ -148,8 +148,47 @@ JarvisGPT/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/JarvisGPT.git
+git clone https://github.com/dakshjain02/Jarvis-GPT.git
 ```
+
+### Navigate to Project
+
+```bash
+cd JarvisGPT
+```
+
+### Create Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+### Activate Environment
+
+```bash
+venv\Scripts\activate
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Configure Environment Variables
+
+Create a `.env` file:
+
+```env
+GROQ_API_KEY=your_api_key_here
+```
+
+### Run Application
+
+```bash
+python main.py
+```
+
 ---
 
 ---
@@ -171,6 +210,10 @@ git clone https://github.com/your-username/JarvisGPT.git
 
 **Daksh Jain**
 
+B.Tech – Artificial Intelligence & Data Science
+
+Python | AI Development | Machine Learning | Automation
 
 ---
 
+⭐ If you found this project useful, consider giving it a star.
